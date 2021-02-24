@@ -16,6 +16,7 @@ h3 {
 
 ul {
     list-style: none;
+    font-size: 1.3em;
 }
 
 footer, i {
@@ -23,4 +24,22 @@ footer, i {
 }
 .projets {
     margin-right: 200px;
+}
+
+body {
+font-family: 'Crimson Text', serif;
+}
+
+p {
+    font-size: 1.3em;
+}
+
+.hideButton {
+    background-color: #7a7f85;
+    color: #7a7f85;
+}
+
+.hideButton:hover {
+    color: white;
+    background-color: black;
 }
